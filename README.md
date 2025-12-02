@@ -17,4 +17,4 @@
 在 Loon 的配置中，添加以下远程规则链接（请使用 Raw 链接）：
 
 ```text
-[https://raw.githubusercontent.com/Lijunnan0113/Loon_rule/main/Bybit.list](https://raw.githubusercontent.com/Lijunnan0113/Loon_rule/main/Bybit.list)
+[https://raw.githubusercontent.com/Lijunnan0113/Loon_rule/main/Bybit.list]https://raw.githubusercontent.com/Lijunnan0113/Loon_rule/main/Bybit.list
